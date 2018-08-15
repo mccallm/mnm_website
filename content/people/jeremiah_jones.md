@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2017-02-04"
+date = "2017-03-09"
 
 # Project title.
 title = "Jeremiah Jones"
@@ -13,7 +13,7 @@ image_preview = "jeremiah_jones.jpeg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["sum"]
+tags = ["alum"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://www.linkedin.com/in/jeremiah-jones-52b15385/"

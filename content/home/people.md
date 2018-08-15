@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "People"
+title = "Lab Members"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -34,12 +34,8 @@ filter_default = 0
   tag = ".cur"
   
 [[filter]]
-  name = "Alumni"
+  name = "Former"
   tag = ".alum"
-  
-[[filter]]
-  name = "Summer"
-  tag = ".sum"
 
 +++
 

@@ -254,7 +254,7 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "People"
+  name = "Lab Members"
   url = "#people"
   weight = 2
 

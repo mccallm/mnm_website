@@ -13,7 +13,7 @@ image_preview = "scott_onestak.jpeg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["sum"]
+tags = ["alum"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://www.linkedin.com/in/scott-onestak-a8917891/"

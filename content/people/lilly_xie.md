@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = "2016-02-08"
+date = "2018-08-15"
 
 # Project title.
 title = "Qingyan (Lilly) Xie"
 
 # Project summary to display on homepage.
-summary = "Statistics Postdoc"
+summary = "Postdoctoral Associate"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "lilly_xie.jpeg"
