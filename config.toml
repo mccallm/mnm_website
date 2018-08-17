@@ -264,6 +264,16 @@ defaultContentLanguageInSubdir = false
   weight = 3
   
 [[menu.main]]
+  name = "Software"
+  url = "#software"
+  weight = 4
+  
+[[menu.main]]
+  name = "Opportunities"
+  url = "files/mccall_postdoc_ad.pdf"
+  weight = 5
+
+[[menu.main]]
   name = "News"
   url = "#posts"
   weight = 6
