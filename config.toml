@@ -222,7 +222,7 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//twitter.com/matthewnmccall"
 
   [[params.social]]
@@ -232,7 +232,7 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//github.com/mccallm"
 
   [[params.social]]
@@ -283,6 +283,14 @@ defaultContentLanguageInSubdir = false
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
+
+# Search.
+[params.search]
+  # Search provider:
+  #   0: No search engine
+  #   1: Built-in (Fuse)
+  #   2: Algolia (https://www.algolia.com)
+  engine = 1
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
