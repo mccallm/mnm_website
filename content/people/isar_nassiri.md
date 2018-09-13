@@ -16,7 +16,7 @@ image_preview = "scientist.jpg"
 tags = ["alum"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.imm.ox.ac.uk/people/isar-nassiri"
 
 # Does the project detail page use math formatting?
 math = false
