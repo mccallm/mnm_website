@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-Matthew McCall is an Assistant Professor at the University of Rochester Medical Center. He is currently developing methods to estimate gene regulatory networks from gene perturbation experiments, to address within-subject heterogeneity in genomic tumor biomarkers, to preprocess and analyze genomic data, and to examine the effect of cellular composition on tissue-level gene expression.
+Matthew McCall is an Associate Professor at the University of Rochester Medical Center. He is currently developing methods to estimate gene regulatory networks from gene perturbation experiments, to address within-subject heterogeneity in genomic tumor biomarkers, to preprocess and analyze genomic data, and to examine the effect of cellular composition on tissue-level gene expression.
 
 My complete curriculum vitae in pdf format is available {{% staticref "files/mccall_cv_ursmd_format.pdf" %}}here{{% /staticref %}}.
